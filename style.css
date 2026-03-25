@@ -226,19 +226,19 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Web Developer";
+        content: "Virtual Assistant";
     }
     21%, 40%{
-        content: "Developer";
+        content: "Technical Document Specialist";
     }
     41%, 60%{
-        content: "Web Designer";
+        content: "Website Design & Page Layout";
     }
     61%, 80%{
-        content: "Youtuber";
+        content: "AI Operations & Prompt Eng.";
     }
     81%, 100%{
-        content: "Script Writer";
+        content: "Outreach & Application Specialist";
     }
 }
 
